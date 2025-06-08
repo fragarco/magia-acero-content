@@ -1,10 +1,10 @@
 {
-  "title": "Contenido de Magia & Acero",
+  "title": "Magia & Acero (contenido)",
   "description": "",
   "version": "1.0.0",
   "id": "magia-acero-content",
   "compatibility": {
-    "minimum": "11"
+    "minimum": "12"
   },
   "relationships": {
     "systems": [
@@ -49,6 +49,6 @@
   "esmodules": [
   ],
   "url": "https://github.com/fragarco/magia-acero-content",
-  "manifest": "https://github.com/fragarco/magia-acero-content/releases/download/v1.0.0/module.json",
-  "download": "https://github.com/fragarco/magia-acero-content/releases/download/v1.0.0/magia-acero-content.zip"
+  "manifest": "https://raw.githubusercontent.com/fragarco/magia-acero-content/main/module.json",
+  "download": "https://github.com/fragarco/magia-acero-content/archive/refs/tags/v1.0.0.zip"
 }
